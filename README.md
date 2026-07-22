@@ -48,7 +48,7 @@ Calculated dynamically across time using Runge-Kutta numerical integration (`sci
 
 ## 📊 Visual Results
 
-![Biotech Comparison Plots](biotech_comparison_plots.png)
+![Comparison Plots](comparison_plots.png)
 
 ---
 
